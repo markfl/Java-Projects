@@ -1,0 +1,12 @@
+*.env
+*.bat
+*.zip
+*.class
+.metadata/
+bin/
+logging/
+.git/
+BassProShops/
+*/.classpaht
+*/.project
+*/.settings
